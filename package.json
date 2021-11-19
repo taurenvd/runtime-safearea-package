@@ -1,0 +1,19 @@
+{
+  "name": "com.unity.mobileplatforms.safearea",
+  "version": "1.0.0",
+  "displayName": "SafeArea adjuster for Android/iOS",
+  "description": "This package contains helper component which adjusts RectTransform safearea.",
+  "unity": "2017.1",
+  "unityRelease": "0b5",
+  "keywords": [
+    "Runtime",
+    "Extension",
+    "SafeArea"
+  ],
+  "author": {
+    "name": "Valerii Dryl",
+    "email": "taurenvd@gmail.com",
+    "url": "https://www.unity3d.com"
+  },
+  "type": "tool"
+}
